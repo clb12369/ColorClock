@@ -1,0 +1,16 @@
+p {
+  background-color: red;
+}
+
+.clock {
+  font-family: Arial, Cambria, "Hoefler Text", "Nimbus Roman No9 L Regular", Times, "Times New Roman", serif;
+  font-size: 1.5rem;
+  height: 500px;
+  width: 500px;
+
+}
+
+.clock h1 {
+  text-align: center;
+  padding-top: 200px
+}
